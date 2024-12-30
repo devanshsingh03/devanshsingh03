@@ -38,7 +38,6 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 📊 GitHub Stats
 
-![Devansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshsingh03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshsingh03&layout=compact&theme=radical)
 
 ---
