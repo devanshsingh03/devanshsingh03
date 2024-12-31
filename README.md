@@ -1,6 +1,8 @@
 
 
-# 👋 Hi, I'm Devansh Singh! 🚀
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devansh+Singh!;" />
+</h1>
 
 Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate about crafting seamless, scalable, and impactful web applications. I enjoy solving complex problems, learning new technologies, and contributing to open-source projects.
 
