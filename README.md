@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** passionate abou
 
 ## 🌟 About Me
 
+<img align="right" alt="GIF" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp" width="40%" height="60%" style="margin:0 50px;">
+
 - 🎓 Final-year student and co-founder of a welfare club Soulful Spoon (SWC) 
 - 💻 Experienced in building dynamic web applications using modern technologies.
 - 🌱 Currently exploring  **Web Development** and **Artificial Intelligence** 
